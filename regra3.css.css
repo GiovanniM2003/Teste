@@ -1,0 +1,33 @@
+ody {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 45px;
+}
+
+.conteudo {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navegacao {
+  display: flex;
+  gap: 200px; /* controla a distância */
+  justify-content: center;
+  color: blue;
+  margin-top: 126px;
+  text-decoration: underline;
+}
+.Regra {
+    text-align: center;
+    font-size: 20px;
+}
+
+body{
+    background-color: azure;
+}
